@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-LGP - [@your-twitter](https://twitter.com/your-twitter)
+LGP - [@leonelpedroza](https://x.com/leonelpedroza)
 
 Project Link: [https://github.com/your-username/qr-generator-pro](https://github.com/your-username/qr-generator-pro)
 
@@ -420,7 +420,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## 📞 Contacto
 
-LGP - [@tu-twitter](https://twitter.com/tu-twitter)
+LGP - [@leonelpedroza](https://x.com/leonelpedroza)
 
 Link del Proyecto: [https://github.com/tu-usuario/qr-generator-pro](https://github.com/tu-usuario/qr-generator-pro)
 

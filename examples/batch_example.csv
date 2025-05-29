@@ -1,0 +1,9 @@
+type,data,pdf_title
+Text,Bienvenido a QR Generator Pro,Bienvenida
+URL,https://github.com/tu-usuario/qr-generator-pro,Repositorio GitHub
+Email,contacto@ejemplo.com,Email de Contacto
+Phone,+1234567890,Teléfono Principal
+WiFi,MiRedWiFi,Acceso WiFi
+SMS,+1234567890,Enviar SMS
+URL,https://www.python.org,Python Official
+Text,QR Generator Pro - Desarrollado por LGP con ayuda de Claude,Créditos

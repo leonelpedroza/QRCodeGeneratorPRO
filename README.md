@@ -205,7 +205,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 LGP - [@leonelpedroza](https://x.com/leonelpedroza)
 
-Project Link: [https://github.com/your-username/qr-generator-pro](https://github.com/your-username/qr-generator-pro)
+Project Link: [https://github.com/leonelpedroza/QRCodeGeneratorPRO](https://github.com/leonelpedroza/QRCodeGeneratorPRO)
+
+
 
 ---
 
@@ -422,7 +424,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 LGP - [@leonelpedroza](https://x.com/leonelpedroza)
 
-Link del Proyecto: [https://github.com/tu-usuario/qr-generator-pro](https://github.com/tu-usuario/qr-generator-pro)
+Link del Proyecto: [https://github.com/leonelpedroza/QRCodeGeneratorPRO](https://github.com/leonelpedroza/QRCodeGeneratorPRO)
 
 ---
 

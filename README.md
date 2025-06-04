@@ -6,10 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Networking-blue?style=for-the-badge&logo=python&logoColor=white">
-</p>
-##
+
 
 English Version
 ![](https://github.com/leonelpedroza/ip_monitor/blob/main/UKFlag.png)
